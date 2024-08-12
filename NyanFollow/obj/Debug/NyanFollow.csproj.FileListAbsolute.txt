@@ -1,0 +1,47 @@
+C:\Users\chiro\source\repos\NyanFollow\NyanFollow\bin\Debug\NyanFollow.exe.config
+C:\Users\chiro\source\repos\NyanFollow\NyanFollow\bin\Debug\NyanFollow.exe
+C:\Users\chiro\source\repos\NyanFollow\NyanFollow\bin\Debug\NyanFollow.pdb
+C:\Users\chiro\source\repos\NyanFollow\NyanFollow\bin\Debug\aiv-fast2d.dll
+C:\Users\chiro\source\repos\NyanFollow\NyanFollow\bin\Debug\OpenTK.dll
+C:\Users\chiro\source\repos\NyanFollow\NyanFollow\bin\Debug\OpenTK.pdb
+C:\Users\chiro\source\repos\NyanFollow\NyanFollow\bin\Debug\OpenTK.xml
+C:\Users\chiro\source\repos\NyanFollow\NyanFollow\obj\Debug\NyanFollow.csproj.AssemblyReference.cache
+C:\Users\chiro\source\repos\NyanFollow\NyanFollow\obj\Debug\NyanFollow.csproj.CoreCompileInputs.cache
+C:\Users\chiro\source\repos\NyanFollow\NyanFollow\obj\Debug\NyanFollow.csproj.CopyComplete
+C:\Users\chiro\source\repos\NyanFollow\NyanFollow\obj\Debug\NyanFollow.exe
+C:\Users\chiro\source\repos\NyanFollow\NyanFollow\obj\Debug\NyanFollow.pdb
+C:\Users\chiro\source\repos\NyanFollow\NyanFollow\bin\Debug\Assets\background.jpg
+C:\Users\chiro\source\repos\NyanFollow\NyanFollow\bin\Debug\Assets\cross.png
+C:\Users\chiro\source\repos\NyanFollow\NyanFollow\bin\Debug\Assets\nyancat.png
+C:\Users\aless\OneDrive\Desktop\AIV\Progetti\NyanFollow\NyanFollow\bin\Debug\Assets\background.jpg
+C:\Users\aless\OneDrive\Desktop\AIV\Progetti\NyanFollow\NyanFollow\bin\Debug\Assets\cross.png
+C:\Users\aless\OneDrive\Desktop\AIV\Progetti\NyanFollow\NyanFollow\bin\Debug\Assets\nyancat.png
+C:\Users\aless\OneDrive\Desktop\AIV\Progetti\NyanFollow\NyanFollow\bin\Debug\NyanFollow.exe.config
+C:\Users\aless\OneDrive\Desktop\AIV\Progetti\NyanFollow\NyanFollow\bin\Debug\NyanFollow.exe
+C:\Users\aless\OneDrive\Desktop\AIV\Progetti\NyanFollow\NyanFollow\bin\Debug\NyanFollow.pdb
+C:\Users\aless\OneDrive\Desktop\AIV\Progetti\NyanFollow\NyanFollow\bin\Debug\aiv-fast2d.dll
+C:\Users\aless\OneDrive\Desktop\AIV\Progetti\NyanFollow\NyanFollow\bin\Debug\OpenTK.dll
+C:\Users\aless\OneDrive\Desktop\AIV\Progetti\NyanFollow\NyanFollow\bin\Debug\OpenTK.pdb
+C:\Users\aless\OneDrive\Desktop\AIV\Progetti\NyanFollow\NyanFollow\bin\Debug\OpenTK.xml
+C:\Users\aless\OneDrive\Desktop\AIV\Progetti\NyanFollow\NyanFollow\obj\Debug\NyanFollow.csproj.AssemblyReference.cache
+C:\Users\aless\OneDrive\Desktop\AIV\Progetti\NyanFollow\NyanFollow\obj\Debug\NyanFollow.csproj.SuggestedBindingRedirects.cache
+C:\Users\aless\OneDrive\Desktop\AIV\Progetti\NyanFollow\NyanFollow\obj\Debug\NyanFollow.csproj.CoreCompileInputs.cache
+C:\Users\aless\OneDrive\Desktop\AIV\Progetti\NyanFollow\NyanFollow\obj\Debug\NyanFollow.csproj.CopyComplete
+C:\Users\aless\OneDrive\Desktop\AIV\Progetti\NyanFollow\NyanFollow\obj\Debug\NyanFollow.exe
+C:\Users\aless\OneDrive\Desktop\AIV\Progetti\NyanFollow\NyanFollow\obj\Debug\NyanFollow.pdb
+C:\Users\Alessio\Desktop\AIV\Anno 1\Progetti\NyanFollow\NyanFollow\bin\Debug\Assets\background.jpg
+C:\Users\Alessio\Desktop\AIV\Anno 1\Progetti\NyanFollow\NyanFollow\bin\Debug\Assets\cross.png
+C:\Users\Alessio\Desktop\AIV\Anno 1\Progetti\NyanFollow\NyanFollow\bin\Debug\Assets\nyancat.png
+C:\Users\Alessio\Desktop\AIV\Anno 1\Progetti\NyanFollow\NyanFollow\bin\Debug\NyanFollow.exe.config
+C:\Users\Alessio\Desktop\AIV\Anno 1\Progetti\NyanFollow\NyanFollow\bin\Debug\NyanFollow.exe
+C:\Users\Alessio\Desktop\AIV\Anno 1\Progetti\NyanFollow\NyanFollow\bin\Debug\NyanFollow.pdb
+C:\Users\Alessio\Desktop\AIV\Anno 1\Progetti\NyanFollow\NyanFollow\bin\Debug\aiv-fast2d.dll
+C:\Users\Alessio\Desktop\AIV\Anno 1\Progetti\NyanFollow\NyanFollow\bin\Debug\OpenTK.dll
+C:\Users\Alessio\Desktop\AIV\Anno 1\Progetti\NyanFollow\NyanFollow\bin\Debug\OpenTK.pdb
+C:\Users\Alessio\Desktop\AIV\Anno 1\Progetti\NyanFollow\NyanFollow\bin\Debug\OpenTK.xml
+C:\Users\Alessio\Desktop\AIV\Anno 1\Progetti\NyanFollow\NyanFollow\obj\Debug\NyanFollow.csproj.AssemblyReference.cache
+C:\Users\Alessio\Desktop\AIV\Anno 1\Progetti\NyanFollow\NyanFollow\obj\Debug\NyanFollow.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alessio\Desktop\AIV\Anno 1\Progetti\NyanFollow\NyanFollow\obj\Debug\NyanFollow.csproj.CoreCompileInputs.cache
+C:\Users\Alessio\Desktop\AIV\Anno 1\Progetti\NyanFollow\NyanFollow\obj\Debug\NyanFollow.csproj.CopyComplete
+C:\Users\Alessio\Desktop\AIV\Anno 1\Progetti\NyanFollow\NyanFollow\obj\Debug\NyanFollow.exe
+C:\Users\Alessio\Desktop\AIV\Anno 1\Progetti\NyanFollow\NyanFollow\obj\Debug\NyanFollow.pdb
